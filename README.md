@@ -2,5 +2,10 @@
 
 ### to remove branch local
 ##### git branch  -d   [branch-name]
-### to remove branch local
+### to remove branch remotly
 ##### git push origin   -d   [branch-name]
+
+### to remove tag local
+##### git tag -d  [tag-name]
+### to remove tag remotly
+##### git push origin   -d   [tag-name]
